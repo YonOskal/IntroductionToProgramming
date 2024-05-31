@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Geek Brains\\Gid\\Введение в контроль версий\\Lesson04\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Geek Brains\\Gid\\Введение в контроль версий\\sem_lesson1\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "C:\\Geek Brains\\Gid\\Введение в контроль версий\\Lesson04\\Task3\\Task3.csproj",
+      "projectPath": "C:\\Geek Brains\\Gid\\Введение в контроль версий\\sem_lesson1\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\larin\\.nuget\\packages\\",
-      "outputPath": "C:\\Geek Brains\\Gid\\Введение в контроль версий\\Lesson04\\Task3\\obj\\",
+      "outputPath": "C:\\Geek Brains\\Gid\\Введение в контроль версий\\sem_lesson1\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\larin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.106\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+c:\Geek Brains\Gid\Введение в контроль версий\test\bin\Debug\net8.0\test.exe
+C:\Geek Brains\Gid\Введение в контроль версий\test\bin\Debug\net8.0\test.deps.json
+C:\Geek Brains\Gid\Введение в контроль версий\test\bin\Debug\net8.0\test.runtimeconfig.json
+c:\Geek Brains\Gid\Введение в контроль версий\test\bin\Debug\net8.0\test.dll
+c:\Geek Brains\Gid\Введение в контроль версий\test\bin\Debug\net8.0\test.pdb
+c:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+c:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+c:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+c:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\test.sourcelink.json
+c:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\test.dll
+c:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\refint\test.dll
+c:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\test.pdb
+C:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+C:\Geek Brains\Gid\Введение в контроль версий\test\obj\Debug\net8.0\ref\test.dll
