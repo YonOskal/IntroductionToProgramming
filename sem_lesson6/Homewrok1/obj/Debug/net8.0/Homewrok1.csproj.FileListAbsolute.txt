@@ -1,0 +1,15 @@
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\Homewrok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\Homewrok1.AssemblyInfoInputs.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\Homewrok1.AssemblyInfo.cs
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\Homewrok1.csproj.CoreCompileInputs.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\Homewrok1.sourcelink.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\bin\Debug\net8.0\Homewrok1.exe
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\bin\Debug\net8.0\Homewrok1.deps.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\bin\Debug\net8.0\Homewrok1.runtimeconfig.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\bin\Debug\net8.0\Homewrok1.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\bin\Debug\net8.0\Homewrok1.pdb
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\Homewrok1.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\refint\Homewrok1.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\Homewrok1.pdb
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\Homewrok1.genruntimeconfig.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson6\Homewrok1\obj\Debug\net8.0\ref\Homewrok1.dll
